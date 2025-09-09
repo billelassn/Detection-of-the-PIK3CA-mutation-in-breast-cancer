@@ -1,13 +1,8 @@
-## Welcome to my GitHub page 👋
+🧬 Owkin-PIK3CA-mutation-detection 🧬
+💻 Data challenge proposed by Owkin (weakly-supervised binary classification problem on histopathology images). Full description is available here.
 
-🎓 I am an engineer with degrees from Mines Saint-Étienne and Université Paris Dauphine - PSL. Currently, I am specializing in AI for healthcare, pursuing a research master's degree in ST4H (Sciences and Technology for Health) at Université PSL.
+🥇 My submission was ranked #1/183 and won the challenge. You can find the slide deck of my presentation at the Collège de France on the 31st of January, 2024 here.
 
-💡 I have a strong interest in AI applied to healthcare, with a particular passion for generative AI, cheminformatics, and drug design. My goal is to use these technologies to create a meaningful impact in the healthcare sector.
+The code was executed on Google Collab. Data is accessible on the challenge website upon registration.
 
-🏆 I enjoy taking on data science challenges. You can check out my projects, including my participation in the PIK3CA mutation detection challenge with Owkin.
-
-I'm always looking to explore new AI techniques and collaborate on impactful projects. Feel free to connect! 🌱
-
-[![Visit my blog](https://img.shields.io/badge/Visit_my_blog-228B22?style=for-the-badge&logoColor=white&width=150)](https://www.linkedin.com/in/billel-aissani-84034a1b9)      [![View my last project](https://img.shields.io/badge/View_my_last_project-FF0000?style=for-the-badge&logoColor=white&width=150)](https://www.linkedin.com/in/billel-aissani-84034a1b9)
-
-
+🔬 The data
