@@ -7,3 +7,5 @@
 🏆 I enjoy taking on data science challenges. You can check out my projects, including my participation in the PIK3CA mutation detection challenge with Owkin.
 
 I'm always looking to explore new AI techniques and collaborate on impactful projects. Feel free to connect! 🌱
+
+https://img.shields.io/badge/www.linkedin.com%2Fin%2Fbillel-aissani-84034a1b9?label=Linkedin
