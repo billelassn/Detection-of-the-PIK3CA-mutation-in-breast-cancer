@@ -1,9 +1,15 @@
-## Hi there 👋
+## Welcome to my GitHub page 👋
 
 <!--
 **billelassn/billelassn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are so👾 I am Data Scientist/ML Engineer @ Invent (Consulting) with a focus on Computer Vision and NLP projects.
+🎓 I hold degrees from École Polytechnique (Cycle Ingénieur X19) and Mines Paris (Ingénieur Civil P20).
+💡 On the side, I love writing about AI! I dive into topics like Diffusion Models, Video Generation, and AlphaFold. Check out my latest posts on my blog.
+🏆 Active participant in Data Science challenges. Curious about my latest work? Take a look at my project on Lung Graft Rejection Region Detection (Digilut 2024 competition).
+Visit My Blog View My Last Project
+
+I’m always looking to explore new AI techniques and collaborate on impactful projects, especially in the healthcare space. Feel free to connect! 🌱me ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
