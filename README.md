@@ -8,4 +8,4 @@
 
 I'm always looking to explore new AI techniques and collaborate on impactful projects. Feel free to connect! 🌱
 
-[![Mon Blog](https://monblog.com/images/bouton-blog.png)](https://monblog.com)
+[![Mon profil LinkedIn](https://thumbs.dreamstime.com/b/logo-d-isolement-de-linkedin-illustration-vecteur-ic%C3%B4ne-minsk-belarus-mars-isol%C3%A9-l-142909970.jpg)](https://www.linkedin.com/in/billel-aissani-84034a1b9)
