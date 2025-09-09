@@ -8,5 +8,6 @@
 
 I'm always looking to explore new AI techniques and collaborate on impactful projects. Feel free to connect! 🌱
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billel-aissani-84034a1b9)
+[![Visit my blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billel-aissani-84034a1b9)
 
+[![View my last project](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/billel-aissani-84034a1b9)
