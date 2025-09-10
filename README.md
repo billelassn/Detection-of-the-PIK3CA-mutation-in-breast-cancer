@@ -42,6 +42,8 @@ There were several reasons for opting for a minimalist model:
 
 My model successfully achieved an AUC score of 0.66 on the public test set, a result that matched the winning score of the challenge. This was accomplished with a significantly lower number of parameters, demonstrating that a simple, computationally efficient model can be highly effective in this context.
 
+You can verify this result on the official challenge public ranking page, where my submission is listed under the username billel_asn.
+
 ## 🚀 Future Improvements
 
 To enhance the model's performance and robustness, I would consider the following axes for future work:
